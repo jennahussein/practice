@@ -1,5 +1,5 @@
 import math
-
+   
 def mod_fib(n, k):
 	fib = [0] * (n + 1)
 	fib[1] = 1
